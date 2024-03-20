@@ -1,0 +1,12 @@
+C:\Users\Öğrenci\Desktop\visual studio proje\yemeksepeti_1\yemeksepeti_1\bin\Debug\yemeksepeti_1.exe.config
+C:\Users\Öğrenci\Desktop\visual studio proje\yemeksepeti_1\yemeksepeti_1\bin\Debug\yemeksepeti_1.exe
+C:\Users\Öğrenci\Desktop\visual studio proje\yemeksepeti_1\yemeksepeti_1\bin\Debug\yemeksepeti_1.pdb
+C:\Users\Öğrenci\Desktop\visual studio proje\yemeksepeti_1\yemeksepeti_1\obj\Debug\yemeksepeti_1.csprojResolveAssemblyReference.cache
+C:\Users\Öğrenci\Desktop\visual studio proje\yemeksepeti_1\yemeksepeti_1\obj\Debug\yemeksepeti_1.Form1.resources
+C:\Users\Öğrenci\Desktop\visual studio proje\yemeksepeti_1\yemeksepeti_1\obj\Debug\yemeksepeti_1.giriş_yap.resources
+C:\Users\Öğrenci\Desktop\visual studio proje\yemeksepeti_1\yemeksepeti_1\obj\Debug\yemeksepeti_1.Properties.Resources.resources
+C:\Users\Öğrenci\Desktop\visual studio proje\yemeksepeti_1\yemeksepeti_1\obj\Debug\yemeksepeti_1.csproj.GenerateResource.Cache
+C:\Users\Öğrenci\Desktop\visual studio proje\yemeksepeti_1\yemeksepeti_1\obj\Debug\yemeksepeti_1.exe
+C:\Users\Öğrenci\Desktop\visual studio proje\yemeksepeti_1\yemeksepeti_1\obj\Debug\yemeksepeti_1.pdb
+C:\Users\Öğrenci\Desktop\visual studio proje\yemeksepeti_1\yemeksepeti_1\obj\Debug\yemeksepeti_1.anasayfa.resources
+C:\Users\Öğrenci\Desktop\visual studio proje\yemeksepeti_1\yemeksepeti_1\obj\Debug\yemeksepeti_1.kayıtol.resources
